@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/late-night-in-nashville/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Late Night in Nashville](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/late-night-in-nashville/) |
+| **Get License** | [Secure Licensing Rights for Late Night in Nashville](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/late-night-in-nashville/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight pouring through the Nashville blinds
+> Your shadow dancing on my restless mind
+> One look from you and the whole world fades
+> Lost in the heat of the mess we made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
