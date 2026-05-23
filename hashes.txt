@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Late Night in Nashville
+
+This log tracks the cryptographic history and versioning for the song **Late Night in Nashville** (late-night-in-nashville).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T06:32:48.278725 | `v1` | `a4f33ad076728fbb4829132dd2aa57cad4493cc1db7885c4ade7d77c8413d1f4` | `e61883d4cdacd8dbe7006acdc8be96a898288a160c2d77ddc96818d4598c53bf` | `2026-05-23_late-night-in-nashville-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

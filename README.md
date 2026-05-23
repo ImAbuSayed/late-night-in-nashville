@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/late-night-in-nashville/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Late Night in Nashville](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/late-night-in-nashville/) |
+| **Get License** | [Request Licensing for Late Night in Nashville](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/late-night-in-nashville/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a4f33ad076728fbb4829132dd2aa57cad4493cc1db7885c4ade7d77c8413d1f4` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
